@@ -14,9 +14,16 @@
     ]
   },
   "background": {
-    "decoration": "windows"
+    "decoration": "grid"
   },
   "appearance": {
     "default": "system"
+  },
+  "styling": {
+    "latex": false,
+    "eyebrows": "breadcrumbs"
+  },
+  "fonts": {
+    "family": "Roboto"
   }
 }
