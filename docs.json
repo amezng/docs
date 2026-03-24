@@ -16,7 +16,7 @@
     ]
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
   },
   "appearance": {
     "default": "system"
